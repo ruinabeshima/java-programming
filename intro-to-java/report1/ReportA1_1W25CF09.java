@@ -1,4 +1,4 @@
-// How to run: javac ReportA1_1W25CF09.java && java ReportA1_1W25CF09
+// Commands: javac ReportA1_1W25CF09.java && java ReportA1_1W25CF09
 
 class ReportA1_1W25CF09 {
     public static void main(String[] args) {
@@ -25,7 +25,7 @@ class ReportA1_1W25CF09 {
             for (int j = 0; j < 2; j++) {
                 System.out.print(result[i][j] + " ");
             }
-            System.out.println("");
+            System.out.println();
         }
     }
 }

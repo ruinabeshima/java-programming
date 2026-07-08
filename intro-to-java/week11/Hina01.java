@@ -20,6 +20,7 @@ public class Hina01 extends JFrame {
 
     public class MyJPanel extends JPanel {
         public MyJPanel() {
+            setBackground(Color.WHITE);
         }
         public void paintComponent(Graphics g) {
             super.paintComponent(g);

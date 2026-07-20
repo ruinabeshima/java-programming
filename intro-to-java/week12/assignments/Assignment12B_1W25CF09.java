@@ -1,7 +1,6 @@
 package assignments;
 
 import java.awt.*;
-import java.awt.event.*;
 import javax.swing.*;
 
 public class Assignment12B_1W25CF09 extends JFrame {

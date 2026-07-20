@@ -1,5 +1,4 @@
 import java.awt.*;         // Use AWT classes
-import java.awt.event.*;   // Use event-handling classes
 import javax.swing.*;      // Use Swing classes
 
 // Window class extending JFrame
